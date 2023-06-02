@@ -46,6 +46,7 @@ law
 lyndem
 lyngdoh mawlong
 lyngdoh mawphlang
+lyngdoh nongbri
 lyngdoh nonglait
 lyngkhoi
 lynrah
@@ -103,3 +104,4 @@ thangkhiew
 thongni
 toi
 wahlang
+warjri
